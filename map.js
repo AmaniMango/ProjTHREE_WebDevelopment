@@ -16,7 +16,7 @@ function init(){
 	var marker = new google.maps.Marker({
 		position: myLocation,
 		map: myMap,
-		animation: google.maps.Animation.BOUNCE,
+		animation: google.maps.Animation.DROP,
 		icon: 'iit-icon.png'
 	});
 
