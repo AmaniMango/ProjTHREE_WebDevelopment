@@ -1,0 +1,121 @@
+.corben-regular {
+  font-family: "Corben", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  background-color: #fdf5e6; 
+  color: #6b4e2e; 
+  margin: 0;
+  padding: 0;
+  padding-top: 60px;
+  line-height: 1.6;
+  font-family: "Corben", serif;
+}
+
+h1, h2 {
+  color: #8b5e34; 
+  text-align: center;
+  float: inherit;
+  font-family: "Corben", serif;
+}
+ 
+h1 {
+  font-size: 2.5rem;
+  margin-top: 20px;
+  float: inherit;
+}
+ 
+h2 {
+  font-size: 1.8rem;
+  margin-top: 20px;
+}
+ 
+p {
+  font-size: 1.2rem;
+  text-align: center;
+  margin: 10px 20px;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #d9b38c; 
+  padding: 10px 0;
+  text-align: center;
+  border-bottom: 5px solid #8b5e34; 
+}
+ 
+.navbar ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none; 
+}
+ 
+.navbar li {
+  display: inline-block;
+  margin-right: 20px;
+}
+ 
+.navbar a {
+  color: #fff5e6;
+  text-decoration: none;
+  font-weight: bold;
+}
+ 
+.navbar a:hover {
+  color: #f8ecd1;
+}
+
+section {
+  background-color: #fffaf0;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(122, 108, 59, 1); 
+  text-align: left;
+}
+
+section ul {
+  list-style-type: circle; 
+  margin-left: 30px;
+  color: #8b5e34;
+}
+ 
+section ul li {
+  margin-bottom: 10px;
+  font-size: 1rem;
+}
+ 
+section:hover {
+  background-color: #f8ecd1; 
+}
+
+img {
+  max-width: 500px;
+  display: block;
+  margin: 10px auto;
+  border: 10px solid #d9b38c;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+video {
+  max-width: 500px;
+  display: block;
+  margin: 10px auto;
+  border: 10px solid #d9b38c;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+ul, ol{
+  list-style: none;
+  float: inherit;
+}
+
+footer{
+  position: relative;
+}
