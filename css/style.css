@@ -111,7 +111,6 @@ ul, ol{
   float: inherit;
 }
 
-/*--------------------------------------------------------*/
 @media (min-width: 600px) {
 body {
   background-color: #fdf5e6;
