@@ -17,7 +17,7 @@ body {
 }
 
 .slider img {
-  width: 50%px;
+  width: 50%;
   padding: 5px;
   display: none;
 }
@@ -137,7 +137,7 @@ ul, ol{
   }
   
   .slider img {
-    width: 50%px;
+    width: 50%;
     padding: 5px;
     display: none;
   }
